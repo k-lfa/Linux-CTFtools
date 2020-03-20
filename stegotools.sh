@@ -74,3 +74,6 @@ git clone https://github.com/zed-0xff/zsteg.git /usr/share/zsteg
 cd /usr/share/zsteg
 gem install zsteg
 cd
+
+echo "Install qsstv"
+apt-get install gsstv
