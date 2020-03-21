@@ -76,4 +76,4 @@ gem install zsteg
 cd
 
 echo "Install qsstv"
-apt-get install gsstv -y
+apt-get install qsstv -y
